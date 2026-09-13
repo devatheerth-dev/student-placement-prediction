@@ -2,6 +2,8 @@
 import streamlit as st
 import joblib
 import pandas as pd
+import sklearn
+print("SCIKIT-LEARN VERSION:", sklearn.__version__)
 
 # -----------------------------
 # Page Configuration
