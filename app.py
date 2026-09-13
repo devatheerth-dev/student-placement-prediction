@@ -80,6 +80,7 @@ def predict_student(student_data):
 
 
 
+st.markdown("""
 <style>
     .main-title {
         font-size: 2.4rem;
@@ -120,6 +121,7 @@ def predict_student(student_data):
         margin-top: 2rem;
     }
 </style>
+""", unsafe_allow_html=True)
 
 
 # -----------------------------
