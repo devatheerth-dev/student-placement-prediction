@@ -1,3 +1,7 @@
+## 🚀 Live Demo
+
+[👉 Open the Student Placement Prediction App](https://student-placement-prediction-xwvizappzv37gd8ebdr6vru.streamlit.app)
+
 # AI-Powered Student Performance & Placement Prediction System
 
 ## Project Overview
